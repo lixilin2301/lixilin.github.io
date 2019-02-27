@@ -1,3 +1,6 @@
+## 2019/02/27:
+1. [A nice and concise page introducing Git](https://jwiegley.github.io/git-from-the-bottom-up/)
+
 ## 2018/07/20:
 1. [Cloud Foundry Component](https://docs.cloudfoundry.org/concepts/architecture/)
 2. [How Applications Are Staged](https://docs.cloudfoundry.org/concepts/how-applications-are-staged.html)
